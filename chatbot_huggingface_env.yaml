@@ -1,4 +1,4 @@
-name: nlp_tutorial
+name: chatbot_huggingface_env
 channels:
   - defaults
   - https://repo.anaconda.com/pkgs/main

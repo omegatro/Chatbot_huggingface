@@ -1,4 +1,4 @@
-*.json
+*model
 results
 test_scripts
 .ipynb_checkpoints
